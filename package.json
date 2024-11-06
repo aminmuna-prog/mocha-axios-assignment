@@ -1,0 +1,22 @@
+{
+  "name": "mocha-axios-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter mochawesome --reporter-options reportDir=reports,reportFilename=index --file ./TestRunner/user.test.js --file ./TestRunner/transaction.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@faker-js/faker": "^9.2.0",
+    "axios": "^1.7.7",
+    "chai": "^5.1.2",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "mocha": "^10.8.2",
+    "mochawesome": "^7.1.3"
+  }
+}

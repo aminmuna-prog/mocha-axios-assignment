@@ -1,0 +1,68 @@
+[
+  {
+    "id": 26496,
+    "name": "Customer1 Keagan",
+    "email": "Newton_Cummings@hotmail.com",
+    "password": "1234",
+    "phone_number": "01625189703",
+    "nid": "123456789",
+    "role": "Customer",
+    "updatedAt": "2024-11-06T17:09:59.578Z",
+    "createdAt": "2024-11-06T17:09:59.578Z"
+  },
+  {
+    "id": 26497,
+    "name": "Customer2 Colton",
+    "email": "Deon_Olson@yahoo.com",
+    "password": "1234",
+    "phone_number": "01625441481",
+    "nid": "123456789",
+    "role": "Customer",
+    "updatedAt": "2024-11-06T17:09:59.690Z",
+    "createdAt": "2024-11-06T17:09:59.690Z"
+  },
+  {
+    "id": 26498,
+    "name": "Agent Lexie",
+    "email": "Rylee.Crist@yahoo.com",
+    "password": "1234",
+    "phone_number": "01625177902",
+    "nid": "123456789",
+    "role": "Agent",
+    "updatedAt": "2024-11-06T17:09:59.783Z",
+    "createdAt": "2024-11-06T17:09:59.783Z"
+  },
+  {
+    "id": 26499,
+    "name": "Customer1 Mariane",
+    "email": "Bria.Vandervort@hotmail.com",
+    "password": "1234",
+    "phone_number": "01625252963",
+    "nid": "123456789",
+    "role": "Customer",
+    "updatedAt": "2024-11-06T17:24:19.852Z",
+    "createdAt": "2024-11-06T17:24:19.852Z"
+  },
+  {
+    "id": 26500,
+    "name": "Customer2 Ronny",
+    "email": "Lysanne_Gibson-Pouros67@hotmail.com",
+    "password": "1234",
+    "phone_number": "01625353047",
+    "nid": "123456789",
+    "role": "Customer",
+    "updatedAt": "2024-11-06T17:24:19.900Z",
+    "createdAt": "2024-11-06T17:24:19.900Z"
+  },
+  {
+    "id": 26501,
+    "name": "Agent Tierra",
+    "email": "Catharine.Armstrong@gmail.com",
+    "password": "1234",
+    "phone_number": "01625454015",
+    "nid": "123456789",
+    "role": "Agent",
+    "updatedAt": "2024-11-06T17:24:19.955Z",
+    "createdAt": "2024-11-06T17:24:19.955Z"
+  }
+]
